@@ -1,0 +1,5 @@
+MANUAL DEL PROVEEDOR - Yerbatera del Alto Paraná S.A.
+
+1. Las facturas se presentan a través de este portal.
+2. Los pagos se realizan por transferencia al CBU registrado.
+3. Consultas: compras@yerbatera-ap.example

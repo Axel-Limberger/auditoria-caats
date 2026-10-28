@@ -1,0 +1,102 @@
+services:
+  app:
+    build: ./app
+    image: lab-app
+    container_name: lab_app
+    ports:
+      - "127.0.0.1:8080:80"   # solo desde el propio equipo: la app tiene fallas intencionales
+    networks:
+      - lab_net
+    restart: unless-stopped
+
+  # caché de la app (contador de visitas); la app funciona aunque no esté levantado
+  redis:
+    image: redis:7.2-alpine
+    container_name: lab_redis
+    command: ["redis-server", "--protected-mode", "no"]
+    networks:
+      - lab_net
+
+  trivy:
+    image: aquasec/trivy:latest
+    container_name: lab_trivy
+    entrypoint: ["sleep", "infinity"]
+    volumes:
+      - ./app:/project:ro
+    networks:
+      - lab_net
+
+  openscap:
+    build: ./openscap
+    image: lab-openscap
+    container_name: lab_openscap
+    entrypoint: ["sleep", "infinity"]
+    networks:
+      - lab_net
+    # Para auditar el host, montamos root como solo lectura
+    volumes:
+      - /:/host:ro
+    # Algunas comprobaciones requieren capacidades adicionales
+    privileged: true
+
+  zap:
+    image: ghcr.io/zaproxy/zaproxy:stable
+    container_name: lab_zap
+    entrypoint: ["sleep", "infinity"]
+    networks:
+      - lab_net
+    # zap-baseline.py escribe los reportes (-r/-J) relativos a /zap/wrk
+    volumes:
+      - ./data/zap-reports:/zap/wrk
+
+  # auditoría de sistema con Lynis (audita el propio contenedor Debian)
+  lynis:
+    build: ./lynis
+    image: lab-lynis
+    container_name: lab_lynis
+    entrypoint: ["sleep", "infinity"]
+    volumes:
+      - ./data/lynis:/report
+    networks:
+      - lab_net
+
+  nettools:
+    image: nicolaka/netshoot
+    container_name: lab_nettools
+    entrypoint: ["sleep", "infinity"]
+    networks:
+      - lab_net
+    tty: true
+
+  iperf3-server:
+    image: networkstatic/iperf3
+    container_name: lab_iperf3_srv
+    command: -s
+    networks:
+      - lab_net
+
+  # servicio para ejecutar linters / semgrep (SAST)
+  scanner:
+    image: python:3.11-slim
+    container_name: lab_scanner
+    entrypoint: ["sleep", "infinity"]
+    volumes:
+      - ./app:/app:ro
+      - ./data/scanner:/scanner-out
+    networks:
+      - lab_net
+
+  # análisis de datos (estaciones 7 y 8): JupyterLab en http://localhost:8888
+  datos:
+    build: ./analisis-datos
+    image: lab-datos
+    container_name: lab_datos
+    user: "1000:1000"
+    ports:
+      - "127.0.0.1:8888:8888"   # solo accesible desde el propio equipo
+    volumes:
+      - ./analisis-datos:/work
+
+networks:
+  lab_net:
+    driver: bridge

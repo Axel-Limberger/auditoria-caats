@@ -1,0 +1,23 @@
+# guía del docente (resultados esperados y clave del caso de datos)
+LAB_INSTRUCTIONS.md
+analisis-datos/datos/clave_respuestas.json
+
+# evidencia generada por los grupos
+data/*/*
+!data/*/.gitkeep
+analisis-datos/resultados/
+
+# entornos y archivos temporales
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.jupyter/
+.local/
+.ipython/
+
+# sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

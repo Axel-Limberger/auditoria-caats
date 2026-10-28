@@ -1,0 +1,123 @@
+id_proveedor,razon_social,cuit,condicion_iva,cbu,domicilio,fecha_alta,usuario_alta
+P0001,Repuestos Oberá S.A.,33-32081103-7,Responsable Inscripto,0074864919970809358869,"Av. Mitre 1707, Puerto Iguazú",2022-10-12,prodriguez
+P0002,Logística Leandro N. Alem S.A.,30-41472910-6,Responsable Inscripto,0119862790128327645669,"San Martín 3794, Garupá",2017-06-12,mruiz
+P0003,Servicios Agrícolas Jardín América S.A.S.,20-23907630-1,Monotributo,0072386420400196828734,"Junín 230, Apóstoles",2017-04-17,csuarez
+P0004,Envases Montecarlo S.A.S.,33-20778167-9,Responsable Inscripto,0728278068749435143268,"Félix de Azara 516, Garupá",2019-09-24,jsuarez
+P0005,Imprenta Montecarlo S.A.,33-15405420-6,Responsable Inscripto,0866566122274644005859,"Belgrano 3978, Garupá",2018-09-06,jsuarez
+P0006,Seguridad Posadas S.R.L.,30-17333965-1,Responsable Inscripto,0140907326198269397019,"Junín 2024, Eldorado",2020-07-21,jsuarez
+P0007,Electricidad Leandro N. Alem S.R.L.,33-14938911-9,Responsable Inscripto,1914819169267432512157,"Av. Mitre 1492, Garupá",2022-02-11,csuarez
+P0008,Distribuidora Leandro N. Alem S.H.,30-27582506-5,Responsable Inscripto,0073415880731620512401,"Entre Ríos 3709, Leandro N. Alem",2024-11-25,prodriguez
+P0009,Combustibles San Vicente S.R.L.,30-18309775-6,Responsable Inscripto,0141487188626250466629,"Sarmiento 2106, Apóstoles",2017-05-24,csuarez
+P0010,Talleres Garupá S.R.L.,30-18941657-8,Responsable Inscripto,1919697841462692273390,"Colón 425, Apóstoles",2017-10-11,jsuarez
+P0011,Insumos Jardín América S.R.L.,33-36822622-5,Responsable Inscripto,0179022998234928920790,"Bolívar 2132, Puerto Iguazú",2015-01-02,csuarez
+P0012,Electricidad Jardín América S.A.,30-40046148-8,Responsable Inscripto,0072429477224227499577,"Av. Uruguay 3002, San Vicente",2022-05-04,mgimenez
+P0013,Logística Eldorado S.A.S.,,Responsable Inscripto,2858256435456556085354,"Belgrano 927, Jardín América",2021-04-26,mruiz
+P0014,Insumos Garupá S.A.,33-37140506-8,Responsable Inscripto,0728126812314302149691,"Belgrano 2351, San Vicente",2022-12-19,csuarez
+P0015,Combustibles Montecarlo S.H.,33-28459639-2,Responsable Inscripto,1911696358092932620572,"Av. Libertad 2529, Leandro N. Alem",2017-11-28,prodriguez
+P0016,Construcciones San Vicente S.A.,33-13363395-8,Responsable Inscripto,0113123192222561304893,"Junín 2200, Jardín América",2017-08-14,csuarez
+P0017,Consultora Apóstoles S.R.L.,33-15955033-3,Responsable Inscripto,072772279901033436450,"Av. Mitre 2391, Garupá",2023-01-12,mgimenez
+P0018,Combustibles Garupá S.R.L.,30-30198638-2,Responsable Inscripto,0868063713115354202407,"Sarmiento 1355, Eldorado",2020-01-14,mgimenez
+P0019,Envases Oberá S.A.S.,30-12147344-1,Responsable Inscripto,0865180400419854245112,"Ayacucho 1975, Eldorado",2021-07-08,mruiz
+P0020,Imprenta Leandro N. Alem S.A.,33-22901294-6,Responsable Inscripto,2851142717860153136911,"Bolívar 3489, Jardín América",2024-10-11,mgimenez
+P0021,Imprenta Eldorado S.A.,30-24721618-5,Responsable Inscripto,285059614358597054169,"Rivadavia 135, Puerto Iguazú",2021-02-25,csuarez
+P0022,Limpieza Eldorado S.A.,33-16063870-8,Responsable Inscripto,0178436797463828965175,"Av. Mitre 1516, Apóstoles",2018-03-09,jsuarez
+P0023,Logística Garupá S.A.,30-38737215-2,Responsable Inscripto,0140866784246388352531,"Rivadavia 1568, Leandro N. Alem",2015-07-29,mruiz
+P0024,Transportes Jardín América S.A.S.,30-41590668-0,Responsable Inscripto,0720764038026571647049,"Av. Libertad 3148, Posadas",2016-10-17,csuarez
+P0025,Logística Apóstoles S.A.S.,20-24291277-3,Monotributo,2857552497489261032302,"Av. Corrientes 1028, Leandro N. Alem",2018-01-15,mgimenez
+P0026,Transportes Puerto Iguazú S.R.L.,20-22415955-3,Monotributo,2859385801606489075910,"Entre Ríos 3910, Puerto Iguazú",2016-06-24,mgimenez
+P0027,Servicios Agrícolas Eldorado S.H.,20-33010262-5,Monotributo,0721832320517405459631,"Sarmiento 2885, San Vicente",2020-03-03,prodriguez
+P0028,Ferretería San Vicente S.A.,33-25514283-1,Responsable Inscripto,1912416632751051826174,"San Martín 1450, Jardín América",2022-09-13,prodriguez
+P0029,Servicios Agrícolas Leandro N. Alem S.R.L.,33-12441732-0,Responsable Inscripto,0114629952102432850099,"Av. Uruguay 406, Apóstoles",2024-05-08,prodriguez
+P0030,Distribuidora Jardín América S.A.S.,33-28370418-7,Responsable Inscripto,2856789549949867170747,"Av. Corrientes 525, Puerto Iguazú",2022-11-17,prodriguez
+P0031,Consultora Garupá S.H.,33-29083870-9,Responsable Inscripto,0176976623062430287445,"Av. Libertad 1183, Oberá",2019-09-13,mgimenez
+P0032,Envases Puerto Iguazú S.R.L.,30-29101232-5,Responsable Inscripto,0143968701787303752676,"Av. Uruguay 3811, Garupá",2017-03-01,prodriguez
+P0033,Ferretería Oberá S.R.L.,30-24042048-8,Responsable Inscripto,0113385597083707501889,"Colón 1611, Eldorado",2023-02-15,mruiz
+P0034,Combustibles Jardín América S.H.,33-23515247-4,Responsable Inscripto,0173672655641661986386,"Junín 955, Leandro N. Alem",2018-11-15,csuarez
+P0035,Maderera Leandro N. Alem S.R.L.,20-38939504-9,Monotributo,0117597817259849896118,"Bolívar 1554, Eldorado",2023-04-07,csuarez
+P0036,Distribuidora Garupá S.A.,30-35222217-4,Responsable Inscripto,2855011439821271607608,"Junín 3807, Jardín América",2021-08-10,mruiz
+P0037,Maderera Garupá S.H.,33-20451232-4,Responsable Inscripto,0076222383092076287705,"San Martín 2240, Apóstoles",2020-04-09,mruiz
+P0038,Electricidad Eldorado S.A.S.,33-38172780-2,Responsable Inscripto,0077193171450613184291,"Bolívar 1380, Jardín América",2018-12-31,mgimenez
+P0039,Limpieza Puerto Iguazú S.A.,30-35923208-6,Responsable Inscripto,0727931565314521378289,"San Martín 3640, Leandro N. Alem",2017-05-04,mgimenez
+P0040,Electricidad San Vicente S.H.,30-38784627-8,Responsable Inscripto,0071546346147652268500,"Belgrano 2736, Posadas",2019-12-03,jsuarez
+P0041,Combustibles Puerto Iguazú S.H.,20-22331512-8,Monotributo,0176485374670159706657,"Belgrano 469, Eldorado",2016-08-23,csuarez
+P0042,Imprenta Posadas S.R.L.,30-33346864-2,Responsable Inscripto,0722300800659622311629,"Av. Mitre 2623, Oberá",2021-05-07,mruiz
+P0043,Agroquímicos Puerto Iguazú S.R.L.,33-41476422-9,Responsable Inscripto,0179989969973997146161,"Colón 238, Puerto Iguazú",2018-02-19,prodriguez
+P0044,Combustibles Garupá S.H.,20-23923739-9,Monotributo,0077711381453878856531,"Belgrano 2676, Leandro N. Alem",2024-04-09,mgimenez
+P0045,Electricidad Puerto Iguazú S.A.S.,20-12239643-7,Monotributo,0141111704939563753721,"Av. Corrientes 132, Montecarlo",2022-01-28,prodriguez
+P0046,Servicios Agrícolas Oberá S.A.S.,30-25199888-0,Responsable Inscripto,2855658713441670710620,"Belgrano 2234, Posadas",2023-11-27,prodriguez
+P0047,Consultora Jardín América S.H.,30-17875884-1,Responsable Inscripto,0728472419153294888060,"Félix de Azara 2600, Leandro N. Alem",2016-04-13,mruiz
+P0048,Limpieza Oberá S.R.L.,33-25589040-4,Responsable Inscripto,2850728817537239166831,"Av. Uruguay 474, Oberá",2024-03-18,csuarez
+P0049,Seguridad Garupá S.A.,33-43243409-0,Responsable Inscripto,0868356881907154000104,"Belgrano 164, Apóstoles",2018-04-26,jsuarez
+P0050,Agroquímicos Puerto Iguazú S.H.,,Responsable Inscripto,0866069795946524553139,"Rivadavia 3957, Garupá",2021-12-21,mruiz
+P0051,Logística Puerto Iguazú S.R.L.,30-39531889-2,Responsable Inscripto,0111907397417856751936,"Entre Ríos 2182, Montecarlo",2017-06-19,csuarez
+P0052,Logística Montecarlo S.H.,30-13638512-3,Responsable Inscripto,0175687204513001851651,"Colón 1649, Apóstoles",2015-08-07,prodriguez
+P0053,Servicios Agrícolas Eldorado S.A.S.,30-32582502-9,Responsable Inscripto,0861834489759511260032,"Ayacucho 3253, Puerto Iguazú",2016-08-24,mruiz
+P0054,Transportes Leandro N. Alem S.A.,30-10642185-0,Responsable Inscripto,2854499320119760651776,"Belgrano 438, Oberá",2017-08-14,mruiz
+P0055,Envases Apóstoles S.A.S.,33-17588545-0,Responsable Inscripto,0174966515262484714729,"Av. Uruguay 1957, San Vicente",2020-12-25,csuarez
+P0056,Talleres Puerto Iguazú S.H.,33-14477737-4,Responsable Inscripto,0173475176075704594514,"Félix de Azara 1773, Jardín América",2020-01-06,mgimenez
+P0057,Consultora Montecarlo S.R.L.,33-43359559-4,Responsable Inscripto,2856275312266625158783,"Belgrano 1876, San Vicente",2015-04-03,csuarez
+P0058,Agroquímicos Posadas S.H.,33-11023547-5,Responsable Inscripto,0869037988009426577110,"Belgrano 1289, Leandro N. Alem",2020-02-14,jsuarez
+P0059,Envases Apóstoles S.A.,33-42311910-7,Responsable Inscripto,0861940869147731728665,"Félix de Azara 3849, Oberá",2019-06-20,mruiz
+P0060,Seguridad Puerto Iguazú S.R.L.,30-10087586-8,Responsable Inscripto,0115244105696615257857,"Av. Mitre 900, Oberá",2015-12-07,prodriguez
+P0061,Ferretería Montecarlo S.H.,30-20003487-9,Responsable Inscripto,0863985117182815266564,"Sarmiento 2767, Garupá",2023-11-13,mgimenez
+P0062,Construcciones Eldorado S.R.L.,30-30291915-8,Responsable Inscripto,0179805645947608635645,"Félix de Azara 1897, Leandro N. Alem",2021-04-14,jsuarez
+P0063,Ferretería San Vicente S.A.S.,33-17961103-7,Responsable Inscripto,0863609878890048865638,"Av. Corrientes 2897, Eldorado",2015-03-20,csuarez
+P0064,Insumos San Vicente S.A.,33-44832959-9,Responsable Inscripto,1913763082979170489976,"Junín 3448, Oberá",2016-08-30,mruiz
+P0065,Limpieza Oberá S.A.,30-25292391-6,Responsable Inscripto,0111128407194284920419,"Belgrano 2133, Jardín América",2024-05-20,jsuarez
+P0066,Insumos Garupá S.R.L.,33-27609839-5,Responsable Inscripto,0079752879451460531081,"San Martín 133, Puerto Iguazú",2017-06-13,prodriguez
+P0067,Talleres Posadas S.A.S.,33-40882405-8,Responsable Inscripto,0723309216034803065646,"Ayacucho 3346, Eldorado",2017-01-03,prodriguez
+P0068,Maderera Jardín América S.H.,30-44791258-5,Responsable Inscripto,0862483178404647661924,"San Martín 882, Garupá",2018-12-24,mruiz
+P0069,Consultora Oberá S.R.L.,30-40299583-8,Responsable Inscripto,0720062542662816515224,"Belgrano 3320, Leandro N. Alem",2015-10-20,csuarez
+P0070,Maderera Leandro N. Alem S.H.,20-39041373-5,Monotributo,0860401380871196908115,"Av. Corrientes 1468, Oberá",2020-06-25,prodriguez
+P0071,Ferretería Oberá S.H.,33-17742465-5,Responsable Inscripto,0172318447291173172503,"Colón 1950, San Vicente",2024-01-16,prodriguez
+P0072,Seguridad Montecarlo S.H.,33-36236725-0,Responsable Inscripto,0176791362105778575511,"Belgrano 380, Eldorado",2024-07-23,csuarez
+P0073,Construcciones Leandro N. Alem S.A.,33-23103525-2,Responsable Inscripto,0866542579148965844267,"Ayacucho 944, Eldorado",2018-06-22,mgimenez
+P0074,Repuestos Apóstoles S.R.L.,33-12132890-4,Responsable Inscripto,0724050667163874414140,"Ayacucho 1056, Puerto Iguazú",2018-07-30,mruiz
+P0075,Envases Eldorado S.A.S.,33-31715939-6,Responsable Inscripto,0722779699102522362636,"Junín 2813, Puerto Iguazú",2021-10-19,mgimenez
+P0076,Electricidad Apóstoles S.R.L.,30-18662292-4,Responsable Inscripto,0073827304897931701038,"Av. Uruguay 573, Montecarlo",2019-11-11,mruiz
+P0077,Seguridad Leandro N. Alem S.H.,20-24526459-4,Monotributo,0111677790324642894308,"Av. Uruguay 1968, Puerto Iguazú",2024-08-27,jsuarez
+P0078,Distribuidora Jardín América S.A.,20-12549704-8,Monotributo,0119492229215104036506,"Ayacucho 3993, Oberá",2019-04-24,jsuarez
+P0079,Servicios Agrícolas Puerto Iguazú S.R.L.,33-36937535-6,Responsable Inscripto,2856545583369392103689,"Rivadavia 3204, Leandro N. Alem",2018-07-30,prodriguez
+P0080,Distribuidora Eldorado S.H.,20-26754037-4,Monotributo,0721962373048514751210,"Sarmiento 2773, Leandro N. Alem",2021-02-16,prodriguez
+P0081,Agroquímicos Puerto Iguazú S.A.S.,30-27580996-5,Responsable Inscripto,0142206752171696866748,"San Martín 898, Eldorado",2016-07-21,csuarez
+P0082,Distribuidora Apóstoles S.H.,33-39089869-5,Responsable Inscripto,0171959432024845000646,"San Martín 2122, Puerto Iguazú",2018-07-26,jsuarez
+P0083,Talleres Leandro N. Alem S.R.L.,33-37762871-9,Responsable Inscripto,0079085573783617978477,"Bolívar 1227, Jardín América",2015-05-13,mgimenez
+P0084,Consultora San Vicente S.A.S.,20-20890600-4,Monotributo,0070441406219044884206,"Ayacucho 913, San Vicente",2022-06-10,mruiz
+P0085,Distribuidora Montecarlo S.A.,33-32581028-4,Responsable Inscripto,0726812062114419650009,"Entre Ríos 1263, Eldorado",2016-06-08,csuarez
+P0086,Logística Jardín América S.A.,30-36514379-6,Responsable Inscripto,0867677102205091907300,"Av. Libertad 1256, Garupá",2019-03-07,jsuarez
+P0087,Insumos Eldorado S.A.,30-29318178-7,Responsable Inscripto,0079006018394820039267,"Av. Mitre 2828, Montecarlo",2017-08-08,mgimenez
+P0088,Construcciones Apóstoles S.A.,30-43771038-0,Responsable Inscripto,0072694871816171367905,"Bolívar 1582, Oberá",2022-09-27,mgimenez
+P0089,Repuestos Puerto Iguazú S.H.,33-25237034-5,Responsable Inscripto,0860666866039040117849,"Sarmiento 186, Leandro N. Alem",2024-04-12,mgimenez
+P0090,Transportes Montecarlo S.H.,20-42845252-5,Monotributo,0863821637311283414847,"Junín 1409, Eldorado",2018-01-26,jsuarez
+P0091,Combustibles Eldorado S.A.,33-25945777-2,Responsable Inscripto,2850593065716269776240,"Sarmiento 2483, Puerto Iguazú",2020-12-28,prodriguez
+P0092,Talleres Apóstoles S.H.,30-37809886-2,Responsable Inscripto,0869961142519197547190,"Junín 2171, Jardín América",2018-10-04,prodriguez
+P0093,Logística Puerto Iguazú S.H.,33-43475271-5,Responsable Inscripto,0726538118891552678022,"Colón 1312, Puerto Iguazú",2020-07-01,mruiz
+P0094,Consultora Eldorado S.A.S.,33-38674963-4,Responsable Inscripto,0725149425159681378544,"Sarmiento 2228, Puerto Iguazú",2023-10-23,jsuarez
+P0095,Distribuidora Posadas S.A.S.,33-27330515-2,Responsable Inscripto,2850416657687191550633,"Sarmiento 905, Jardín América",2024-10-21,mruiz
+P0096,Repuestos Posadas S.A.,33-37652876-1,Responsable Inscripto,0073530438070816664335,"Av. Libertad 2732, Puerto Iguazú",2016-06-07,csuarez
+P0097,Limpieza Posadas S.A.S.,33-31877887-1,Responsable Inscripto,2851405155917364823030,"Rivadavia 2094, Jardín América",2018-03-27,mgimenez
+P0098,Insumos Oberá S.A.,33-38525650-2,Responsable Inscripto,0077413867165220112256,"San Martín 2749, Montecarlo",2016-03-14,prodriguez
+P0099,Repuestos Oberá S.R.L.,30-13514951-5,Responsable Inscripto,0727604033640381729620,"Belgrano 2491, Montecarlo",2024-05-07,mgimenez
+P0100,Combustibles Puerto Iguazú S.A.S.,33-21584117-6,Responsable Inscripto,0861604100681443006268,"Bolívar 455, Jardín América",2015-02-27,mruiz
+P0101,Imprenta Leandro N. Alem S.R.L.,33-18206832-8,Responsable Inscripto,2859350682699817606295,"Ayacucho 478, Leandro N. Alem",2017-05-09,mgimenez
+P0102,Combustibles Eldorado S.R.L.,30-34384144-9,Responsable Inscripto,0869745559404446632104,"Belgrano 300, Leandro N. Alem",2018-10-10,prodriguez
+P0103,Distribuidora Eldorado S.A.S.,20-39430148-6,Monotributo,0075481536695168368164,"Belgrano 2275, Garupá",2024-05-07,prodriguez
+P0104,Electricidad Leandro N. Alem S.H.,33-25643869-6,Responsable Inscripto,0720744254236020086419,"Belgrano 1142, Posadas",2024-07-24,jsuarez
+P0105,Imprenta Jardín América S.H.,30-29931633-1,Responsable Inscripto,2857566110529074128560,"Junín 3977, Eldorado",2024-03-27,mgimenez
+P0106,Limpieza Puerto Iguazú S.H.,33-43491629-7,Responsable Inscripto,0115685633330227653557,"Junín 3032, San Vicente",2023-06-12,mruiz
+P0107,Repuestos Jardín América S.A.S.,33-21269824-0,Responsable Inscripto,0178543878135626180645,"Entre Ríos 3499, San Vicente",2017-12-27,jsuarez
+P0108,Talleres Eldorado S.A.S.,33-26299882-2,Responsable Inscripto,0111369311288366377518,"San Martín 3139, Montecarlo",2023-10-18,csuarez
+P0109,Servicios Agrícolas Puerto Iguazú S.A.,33-42905179-2,Responsable Inscripto,0079211042807834025393,"Bolívar 3434, Eldorado",2015-09-01,jsuarez
+P0110,Distribuidora San Vicente S.H.,30-35384570-1,Responsable Inscripto,0174337755515199353829,"Félix de Azara 2446, San Vicente",2022-11-28,mruiz
+P0111,Seguridad Apóstoles S.H.,,Responsable Inscripto,0863019942123506926509,"Belgrano 3168, Eldorado",2018-02-26,mruiz
+P0112,Combustibles Posadas S.H.,30-29425568-7,Responsable Inscripto,0118414371009085055446,"Bolívar 2462, Jardín América",2024-07-29,mruiz
+P0113,Maderera Apóstoles S.R.L.,30-14752560-1,Responsable Inscripto,0866768196208782315960,"Rivadavia 2348, Apóstoles",2015-09-08,csuarez
+P0114,Limpieza Posadas S.R.L.,30-35404630-6,Responsable Inscripto,0071657250770277581551,"San Martín 2178, Apóstoles",2021-05-10,prodriguez
+P0115,Construcciones Leandro N. Alem S.A.S.,30-42019562-8,Responsable Inscripto,0116073624680148372717,"Av. Mitre 716, Apóstoles",2016-12-16,prodriguez
+P0116,Servicios Agrícolas Jardín América S.H.,20-16582191-3,Monotributo,2859316272331118135777,"Bolívar 1410, Leandro N. Alem",2015-08-19,mgimenez
+P0117,Distribuidora Leandro N. Alem S.R.L.,30-43722583-0,Responsable Inscripto,0723645977587327823094,"Junín 2071, San Vicente",2015-01-12,mgimenez
+P0118,Logística Jardín América S.A.S.,33-22726902-8,Responsable Inscripto,0177380664630685654135,"Av. Uruguay 3892, Apóstoles",2022-07-18,csuarez
+P0119,Servicios Integrales del Norte S.R.L.,30-27286673-9,Responsable Inscripto,2858271783725527618998,"Belgrano 3044, San Vicente",2025-03-10,mgimenez
+P0120,Logística Guaraní S.A.S.,30-35713547-4,Responsable Inscripto,0865687874349997747554,"Av. Uruguay 3087, Eldorado",2025-05-19,mgimenez
+P0121,  ELECTRICIDAD APOSTOLES SRL ,30-18662292-4,Responsable Inscripto,0073827304897931701038,"Av. Uruguay 573, Montecarlo",2025-09-29,mruiz
+P0122,  COMBUSTIBLES ELDORADO SA ,33-25945777-2,Responsable Inscripto,2850593065716269776240,"Sarmiento 2483, Puerto Iguazú",2025-06-18,mruiz

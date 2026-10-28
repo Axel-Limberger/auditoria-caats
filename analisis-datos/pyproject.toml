@@ -1,0 +1,16 @@
+[project]
+name = "caats-datos"
+version = "0.1.0"
+description = "Práctica de CAATs de análisis de datos (alternativa libre a ACL / IDEA)"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.6",
+    "scipy>=1.18.1",
+]
+
+[tool.uv]
+package = false
